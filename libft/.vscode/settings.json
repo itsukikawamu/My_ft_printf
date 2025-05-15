@@ -1,0 +1,11 @@
+{
+	"files.associations": {
+		"libft.h": "c",
+		"stdlib.h": "c",
+		"assert.h": "c",
+		"stdio.h": "c",
+		"string.h": "c"
+	},
+	"files.autoSave": "onFocusChange",
+	"task.autoDetect": "on"
+}
