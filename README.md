@@ -1,2 +1,2 @@
 ## ft_printf
-my beautiful ft_printf is HERE
+My beautiful ft_printf is HERE
